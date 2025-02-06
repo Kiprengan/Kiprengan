@@ -1,4 +1,4 @@
-### Hi there 👋 I am Denis Kiprono a Future Resiliant Software Engineer
+### Hi there 👋 I am Denis Kiprono a Future Resiliant Applications Analyst
 
 🔭 I’m currently working on building self for future resiliant software engineer
 🌱 I’m currently learning C, Python, Java, PLSQL, Oracle EBS
